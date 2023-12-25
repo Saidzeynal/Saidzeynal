@@ -1,0 +1,4 @@
+-  Hi, I’m Said
+- I’m interested in QA automation and electronics 
+-  I’m currently learning Python
+-  How to reach me : zeynalovseid54@gmail.com
